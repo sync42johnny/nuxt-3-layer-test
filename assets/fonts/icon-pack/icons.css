@@ -1,0 +1,370 @@
+@font-face {
+  font-family: "icons";
+  src: url("./icons.eot?62cbef1ba31b39e6aad5548900fdf206#iefix") format("embedded-opentype"),
+url("./icons.woff?62cbef1ba31b39e6aad5548900fdf206") format("woff"),
+url("./icons.woff2?62cbef1ba31b39e6aad5548900fdf206") format("woff2");
+  font-display:swap;
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+  font-family: icons !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-check:before {
+  content: "\e000";
+}
+.icon-affiliate-user:before {
+  content: "\f101";
+}
+.icon-affiliate:before {
+  content: "\f102";
+}
+.icon-allgames:before {
+  content: "\f103";
+}
+.icon-arrow-down:before {
+  content: "\f104";
+}
+.icon-arrow-left:before {
+  content: "\f105";
+}
+.icon-arrow-right:before {
+  content: "\f106";
+}
+.icon-arrow-up:before {
+  content: "\f107";
+}
+.icon-articles-search:before {
+  content: "\f108";
+}
+.icon-attention:before {
+  content: "\f109";
+}
+.icon-avg-coins:before {
+  content: "\f10a";
+}
+.icon-bank-cards:before {
+  content: "\f10b";
+}
+.icon-burger:before {
+  content: "\f10c";
+}
+.icon-button-back:before {
+  content: "\f10d";
+}
+.icon-calendar-alt:before {
+  content: "\f10e";
+}
+.icon-calendar:before {
+  content: "\f10f";
+}
+.icon-cancel:before {
+  content: "\f110";
+}
+.icon-cards:before {
+  content: "\f111";
+}
+.icon-casual:before {
+  content: "\f112";
+}
+.icon-category:before {
+  content: "\f113";
+}
+.icon-change:before {
+  content: "\f114";
+}
+.icon-chevrons-left:before {
+  content: "\f115";
+}
+.icon-chevrons-right:before {
+  content: "\f116";
+}
+.icon-close-alt:before {
+  content: "\f117";
+}
+.icon-close:before {
+  content: "\f118";
+}
+.icon-coins:before {
+  content: "\f119";
+}
+.icon-convert:before {
+  content: "\f11a";
+}
+.icon-copy-alt:before {
+  content: "\f11b";
+}
+.icon-copy:before {
+  content: "\f11c";
+}
+.icon-cross:before {
+  content: "\f11d";
+}
+.icon-dice:before {
+  content: "\f11e";
+}
+.icon-dices:before {
+  content: "\f11f";
+}
+.icon-discord:before {
+  content: "\f120";
+}
+.icon-double-swords:before {
+  content: "\f121";
+}
+.icon-download:before {
+  content: "\f122";
+}
+.icon-edit:before {
+  content: "\f123";
+}
+.icon-email:before {
+  content: "\f124";
+}
+.icon-entypo-camera:before {
+  content: "\f125";
+}
+.icon-eye-alt-closed:before {
+  content: "\f126";
+}
+.icon-eye-alt:before {
+  content: "\f127";
+}
+.icon-eye:before {
+  content: "\f128";
+}
+.icon-facebook:before {
+  content: "\f129";
+}
+.icon-favorite-outline:before {
+  content: "\f12a";
+}
+.icon-favorite:before {
+  content: "\f12b";
+}
+.icon-few-coins:before {
+  content: "\f12c";
+}
+.icon-filter:before {
+  content: "\f12d";
+}
+.icon-fullscreen:before {
+  content: "\f12e";
+}
+.icon-game-controller:before {
+  content: "\f12f";
+}
+.icon-google:before {
+  content: "\f130";
+}
+.icon-help-alt:before {
+  content: "\f131";
+}
+.icon-help:before {
+  content: "\f132";
+}
+.icon-history:before {
+  content: "\f133";
+}
+.icon-home:before {
+  content: "\f134";
+}
+.icon-hottest:before {
+  content: "\f135";
+}
+.icon-info:before {
+  content: "\f136";
+}
+.icon-information:before {
+  content: "\f137";
+}
+.icon-level-up:before {
+  content: "\f138";
+}
+.icon-lightning-circle:before {
+  content: "\f139";
+}
+.icon-lightning-outline:before {
+  content: "\f13a";
+}
+.icon-lightning:before {
+  content: "\f13b";
+}
+.icon-link:before {
+  content: "\f13c";
+}
+.icon-live-casino:before {
+  content: "\f13d";
+}
+.icon-live:before {
+  content: "\f13e";
+}
+.icon-login:before {
+  content: "\f13f";
+}
+.icon-logout:before {
+  content: "\f140";
+}
+.icon-lottery:before {
+  content: "\f141";
+}
+.icon-many-coins:before {
+  content: "\f142";
+}
+.icon-menu-closed:before {
+  content: "\f143";
+}
+.icon-menu-opened:before {
+  content: "\f144";
+}
+.icon-minus:before {
+  content: "\f145";
+}
+.icon-more:before {
+  content: "\f146";
+}
+.icon-new:before {
+  content: "\f147";
+}
+.icon-newest:before {
+  content: "\f148";
+}
+.icon-offerwalls:before {
+  content: "\f149";
+}
+.icon-originals:before {
+  content: "\f14a";
+}
+.icon-parameters:before {
+  content: "\f14b";
+}
+.icon-pass-alt:before {
+  content: "\f14c";
+}
+.icon-pass:before {
+  content: "\f14d";
+}
+.icon-play:before {
+  content: "\f14e";
+}
+.icon-plus-alt:before {
+  content: "\f14f";
+}
+.icon-plus-dark:before {
+  content: "\f150";
+}
+.icon-plus:before {
+  content: "\f151";
+}
+.icon-poker:before {
+  content: "\f152";
+}
+.icon-popular:before {
+  content: "\f153";
+}
+.icon-profile:before {
+  content: "\f154";
+}
+.icon-promo-link:before {
+  content: "\f155";
+}
+.icon-purse:before {
+  content: "\f156";
+}
+.icon-qr:before {
+  content: "\f157";
+}
+.icon-recently:before {
+  content: "\f158";
+}
+.icon-repeat:before {
+  content: "\f159";
+}
+.icon-roulette:before {
+  content: "\f15a";
+}
+.icon-search:before {
+  content: "\f15b";
+}
+.icon-settings:before {
+  content: "\f15c";
+}
+.icon-shows:before {
+  content: "\f15d";
+}
+.icon-signup:before {
+  content: "\f15e";
+}
+.icon-slots:before {
+  content: "\f15f";
+}
+.icon-sort-ascending:before {
+  content: "\f160";
+}
+.icon-sort-descending:before {
+  content: "\f161";
+}
+.icon-star:before {
+  content: "\f162";
+}
+.icon-steam:before {
+  content: "\f163";
+}
+.icon-success-offers:before {
+  content: "\f164";
+}
+.icon-support:before {
+  content: "\f165";
+}
+.icon-survey:before {
+  content: "\f166";
+}
+.icon-tablegames:before {
+  content: "\f167";
+}
+.icon-telegram:before {
+  content: "\f168";
+}
+.icon-theatre-view:before {
+  content: "\f169";
+}
+.icon-tick:before {
+  content: "\f16a";
+}
+.icon-timer:before {
+  content: "\f16b";
+}
+.icon-top-arrow:before {
+  content: "\f16c";
+}
+.icon-transactions:before {
+  content: "\f16d";
+}
+.icon-trophy:before {
+  content: "\f16e";
+}
+.icon-twitch:before {
+  content: "\f16f";
+}
+.icon-verified:before {
+  content: "\f170";
+}
+.icon-videopoker:before {
+  content: "\f171";
+}
+.icon-view:before {
+  content: "\f172";
+}
+.icon-wallet:before {
+  content: "\f173";
+}
+.icon-wheel:before {
+  content: "\f174";
+}
